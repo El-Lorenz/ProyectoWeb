@@ -287,3 +287,7 @@ ul.errorlist{
 .linksCategorias:hover{
   text-decoration: none;
 }
+
+.contenedorFormulario{
+  background-color: rgba(24, 64, 8);
+}
